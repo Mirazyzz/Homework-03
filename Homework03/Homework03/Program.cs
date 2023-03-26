@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            int firstNumber, secondNumber, thirdNumber;
+            int a, b, c;
 
             int seriesUntil = int.Parse(Console.ReadLine());
 
