@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int input = int.Parse(Console.ReadLine());
         }
     }
 }
