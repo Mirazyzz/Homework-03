@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int firstNumber, secondNumber, thirdNumber;
+
+            int seriesUntil = int.Parse(Console.ReadLine());
+
         }
     }
 }
